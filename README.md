@@ -3,7 +3,7 @@ Alien invasion game project to learn python3.
 
 Requirements:
 
-python3
+python3 <p>
 pygame
 
 How to play:
